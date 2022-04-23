@@ -1,0 +1,17 @@
+
+.emptyCart {
+  text-align: center;
+}
+
+.img {
+  width: 100%;
+  max-width: 250px;
+  margin: 42px auto 16px auto;
+}
+
+.h2 {
+  color: coral;
+  font-size: 18px;
+}
+
+

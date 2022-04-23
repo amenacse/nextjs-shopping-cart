@@ -1,0 +1,22 @@
+
+.stepperInput {
+  display: flex;
+  display: -webkit-flex;
+  max-width: 120px;
+  margin: 0 auto;
+}
+
+.increment {
+  line-height: 22px;
+}
+.decrement {
+  line-height: 24px;
+}
+.quantity {
+  height: 24px;
+  width: 48px;
+  text-align: center;
+  margin: 0 12px;
+  border-radius: 2px;
+  border: 1px solid $gray-eighty;
+}
